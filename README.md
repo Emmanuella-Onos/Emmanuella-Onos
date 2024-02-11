@@ -3,8 +3,8 @@
 - 🤓 I'm a Power BI data analyst 
 - 👀 A technical writer turn data analyst
 - 🌱 I work with Excel, Power BI, and Azure Data Studio
-- 💞️ I’m looking to collaborate on data analystic projects
-- 📫 How to reach me onoselenbalue@gmail.com
+- 💞️ I’m looking to collaborate on data analytic projects
+- 📫 Reach me on onoselenbalue@gmail.com
 - ⚡ Fun fact: Attention paralyzes me 
 
 <!---
