@@ -1,7 +1,7 @@
 ## Hello 😃, I'm Emmanuella. Welcome to my GitHub Profile
 
 - 🤓 I'm a Power BI data analyst 
-- 👀 A technical writer turn data analyst
+- 👀 A technical writer turned data analyst
 - 🌱 I work with Excel, Power BI, and Azure Data Studio
 - 💞️ I’m looking to collaborate on data analytic projects
 - 📫 Reach me on onoselenbalue@gmail.com
